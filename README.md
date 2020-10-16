@@ -20,7 +20,7 @@ Atualmente estou aprendendo sobre **desenvolvimento Web** 🌐.
 - React & React Native
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AllanCapistrano&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ****Obs: Isso não significa que são as linguagens que eu mais domino ou coisa do tipo, apenas as mais utilizadas por enquanto.***
 
