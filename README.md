@@ -14,10 +14,10 @@ Atualmente estou aprendendo sobre **desenvolvimento Web** 🌐.
 ### <img alt="GIF" src="https://github.com/AllanCapistrano/AllanCapistrano/blob/master/assets/thinking.gif" width="30vw">  Interesses: ###
 - C#
 - JavaScript / TypeScript
-- NodeJS
+- NodeJs
 - Python 
 - PHP / Laravel
-- React & React Native
+- NextJs / React & React Native
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AllanCapistrano&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCapistrano&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
