@@ -1,5 +1,3 @@
-[![Github Follow](https://img.shields.io/github/followers/AllanCapistrano?label=follow&style=social)](https://github.com/AllanCapistrano)
-[![Github Views](https://komarev.com/ghpvc/?username=AllanCapistrano&color=blueviolet)](https://github.com/AllanCapistrano)
 [![Linkedin](https://img.shields.io/badge/allancapistrano-blue?logo=linkedin)](https://www.linkedin.com/in/allancapistrano/) 
 [![E-mail](https://img.shields.io/badge/asantos@ecomp.uefs.br-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=asantos@ecomp.uefs.br)
 
