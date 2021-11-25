@@ -14,7 +14,7 @@ Meu nome é Allan Capistrano, tenho 20 anos e sou graduando em Engenharia de Com
 - NodeJs
 - Python 
 - PHP / Laravel
-- NextJs / React & React Native
+- NextJs / React
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AllanCapistrano&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCapistrano&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
