@@ -16,7 +16,8 @@ Meu nome é Allan Capistrano, tenho 20 anos e sou graduando em Engenharia de Com
 - PHP / Laravel
 - React / NextJs
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AllanCapistrano&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCapistrano&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AllanCapistrano&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCapistrano&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### Obs: Isso não significa que são as linguagens que eu mais domino ou coisa do tipo, apenas as mais utilizadas no momento. ###### 
 
