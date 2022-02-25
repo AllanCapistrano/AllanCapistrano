@@ -16,11 +16,12 @@ Meu nome é Allan Capistrano, tenho 20 anos e sou graduando em Engenharia de Com
 - PHP / Laravel
 - React / NextJs
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AllanCapistrano&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCapistrano&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanCapistrano&theme=omni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCapistrano&layout=compact&theme=omni"> 
+</div>
 
 ###### Obs: Isso não significa que são as linguagens que eu mais domino ou coisa do tipo, apenas as mais utilizadas no momento. ###### 
-
 
 <p align="center">
   <img alt="GIF" src="https://github.com/AllanCapistrano/AllanCapistrano/blob/master/assets/RainbowPls.gif" width="50vw"> <img alt="GIF" src="https://github.com/AllanCapistrano/AllanCapistrano/blob/master/assets/RainbowPls.gif" width="50vw"> <img alt="GIF" src="https://github.com/AllanCapistrano/AllanCapistrano/blob/master/assets/RainbowPls.gif" width="50vw">
