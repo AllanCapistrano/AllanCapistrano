@@ -10,10 +10,10 @@ Meu nome √© Allan Capistrano, tenho 20 anos, graduando em Engenharia de Computa√
 
 ### <img alt="GIF" src="https://github.com/AllanCapistrano/AllanCapistrano/blob/master/assets/thinking.gif" width="30vw">  Interesses: ###
 - C#
+- Java
 - JavaScript / TypeScript
 - NodeJs
 - Python 
-- PHP / Laravel
 - React / NextJs
 
 <div align="center">
