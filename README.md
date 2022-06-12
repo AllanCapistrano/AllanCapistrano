@@ -17,8 +17,8 @@ Meu nome é Allan Capistrano, tenho 20 anos, graduando em Engenharia de Computa�
 - React / NextJs
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanCapistrano&theme=omni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCapistrano&layout=compact&theme=omni"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanCapistrano&theme=aura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCapistrano&layout=compact&theme=aura"> 
 </div>
 
 ###### Obs: Isso não significa que são as linguagens que eu mais domino ou coisa do tipo, apenas as mais utilizadas no momento. ###### 
