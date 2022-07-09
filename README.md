@@ -3,7 +3,7 @@
 
 <h2 align="center">Opa, você está no meu perfil <img alt="GIF" src="https://github.com/AllanCapistrano/AllanCapistrano/blob/master/assets/catJAM.gif" height="30vw"></h2>
 
-Meu nome é Allan Capistrano, tenho 20 anos, graduando em Engenharia de Computação pela ***[Universidade Estadual de Feira de Santana (UEFS)](http://www.uefs.br/)*** e membro do Laboratório de Redes e Sistemas Distribuídos (LARSID).
+Meu nome é Allan Capistrano, tenho 21 anos, graduando em Engenharia de Computação pela ***[Universidade Estadual de Feira de Santana (UEFS)](http://www.uefs.br/)*** e membro do Laboratório de Redes e Sistemas Distribuídos (LARSID).
 
 - *Eu provavelmente estou assistindo algum **anime** <img alt="GIF" src="https://github.com/AllanCapistrano/AllanCapistrano/blob/master/assets/RainbowPls.gif" height="40vw">  ou **jogando** algo.* <img alt="GIF" src="https://github.com/AllanCapistrano/AllanCapistrano/blob/master/assets/game-controller.gif" height="40vw">
 - *Fale comigo sobre **programação**, **animes** e **jogos** .* <img alt="GIF" src="https://github.com/AllanCapistrano/AllanCapistrano/blob/master/assets/blobDance.gif" height="40vw">
