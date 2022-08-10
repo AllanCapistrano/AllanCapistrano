@@ -10,11 +10,11 @@ Meu nome √© Allan Capistrano, tenho 21 anos, graduando em Engenharia de Computa√
 
 ### <img alt="GIF" src="https://github.com/AllanCapistrano/AllanCapistrano/blob/master/assets/thinking.gif" height="40vw">  Interesses: ###
 - C#
+- Docker
 - Java
 - JavaScript / TypeScript
 - NodeJs
 - Python 
-- React / NextJs
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanCapistrano&theme=aura">
