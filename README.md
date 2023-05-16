@@ -18,7 +18,7 @@ Meu nome √© Allan Capistrano, tenho 21 anos, graduando em Engenharia de Computa√
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allancapistrano&count_private=true&show_icons=true&theme=aura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCapistrano&layout=compact&theme=aura"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCapistrano&size_weight=0.5&count_weight=0.5&layout=compact&theme=aura"> 
 </div>
 
 <p align="center">
