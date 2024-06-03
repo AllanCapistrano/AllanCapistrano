@@ -18,8 +18,8 @@ My name is Allan Capistrano, I'm a 22 year old Brazilian student. Currently grad
 - Rust
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allancapistrano&count_private=true&show_icons=true&theme=aura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCapistrano&size_weight=0.5&count_weight=0.5&layout=compact&theme=aura"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allancapistrano&count_private=true&show_icons=true&theme=catppuccin_mocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCapistrano&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_mocha"> 
 </div>
 
 <p align="center">
