@@ -3,7 +3,7 @@
 
 <h2 align="center">Hey you are on my profile <img alt="GIF" src="./assets/catJAM.gif" height="30vw"></h2>
 
-My name is Allan Capistrano, I'm a 22 year old Brazilian student. Currently graduating in Computer Engineering from the [***State University of Feira de Santana***](http://www.uefs.br/) and member of the [***Laboratory of Distributed Networks and Systems (LARSID)***](https://github.com/larsid).
+My name is Allan Capistrano, I'm Brazilian, and I hold a bachelor's degree in Computer Engineering from the [***State University of Feira de Santana***](http://www.uefs.br/).
 
 - I'm probably watching some **anime** <img alt="GIF" src="./assets/RainbowPls.gif" height="40vw">  or **coding** something. <img alt="GIF" src="./assets/hackermans.gif" height="40vw">
 - I like to talk about **programming**, **anime**, **games** and **sports**. <img alt="GIF" src="./assets/blobDance.gif" height="40vw">
