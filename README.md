@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/badge/allancapistrano-blue?logo=linkedin)](https://www.linkedin.com/in/allancapistrano/) 
+[![Linkedin](https://img.shields.io/badge/allancapistrano-blue?logo=inspire&logoColor=ffffff)](https://www.linkedin.com/in/allancapistrano/) 
 [![E-mail](https://img.shields.io/badge/asantos@ecomp.uefs.br-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=asantos@ecomp.uefs.br)
 
 <h2 align="center">Hey you are on my profile <img alt="GIF" src="./assets/catJAM.gif" height="30vw"></h2>
